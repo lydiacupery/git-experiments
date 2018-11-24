@@ -1,4 +1,4 @@
 # git-experiments
-This is a sentence.
+<<<<<<< HEAD
+This is a __sentence__.
 Another sentence.
-
